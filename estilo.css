@@ -1,0 +1,136 @@
+body {
+    margin: 0 auto;
+    font-family: Tahoma;
+}
+
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p {
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.logo {
+    background-color: #afddfb
+}
+
+.logotipo {
+    width: 150px;
+}
+
+.guias {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.link-guias {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.parte-topo {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+span{
+font-weight: bold;
+}
+
+.texto-azul {
+    color: #1d80c1;
+}
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.Segundo {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.top {
+    width: 450px;
+}
+
+.Serviços {
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 42px;
+    color: #1c81c0;
+}
+
+.Serviços h2 {
+    color: #ffffff;
+}
+
+.Serviços p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto-amarelo {
+    color: #fff81b
+}
+
+.Serviços ul {
+    margin: 0 auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.Contatos {
+    background-color: #1d80c1;
+}
+
+.Contatos h2 {
+    color: #ffffff;
+}
+
+.Contatos p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.Contatos ul {
+    margin: 0 auto;
+    width: 210px;
+}
+
+.Contatos ul li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Contatos a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+}
